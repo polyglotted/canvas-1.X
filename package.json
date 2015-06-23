@@ -1,0 +1,23 @@
+{
+  "name": "canvas-1.x",
+  "version": "0.0.1",
+  "description": "A canvas template using AngularJS (1.x)",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polyglotted/canvas-1.x.git"
+  },
+  "keywords": [
+    "angularjs",
+    "canvas"
+  ],
+  "author": "Ahmed Nuaman (ahmed@polyglotted.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/polyglotted/canvas-1.x/issues"
+  },
+  "homepage": "https://github.com/polyglotted/canvas-1.x#readme"
+}
